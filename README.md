@@ -5,9 +5,9 @@ A RESTful API for managing course creation, enrollment, and access — built wit
 ⸻
 
  Features
-	1. Authentication using JWT (Student & Admin roles)
-	2.Course Management (Admin only)
-	3.Create, update, delete, publish/unpublish
+	-	Authentication using JWT (Student & Admin roles)
+	-	Course Management (Admin only)
+	-	Create, update, delete, publish/unpublish
 	-	Enrollment System
 	-	Free or paid enrollment
 	-	Prevent duplicate enrollment
